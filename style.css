@@ -425,6 +425,7 @@ a {
   html {
     font-size: 10px;
   }
+
   .header {
     height: 60vh;
   }
@@ -461,3 +462,5 @@ a {
     text-align: center;
   }
 }
+
+/* adding readme */
